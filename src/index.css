@@ -4,9 +4,14 @@
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  height: 100vh;
+}
+
 @theme {
   --color-background-60: #1d1d1c;
   --color-background-30: #2e2c73;
   --color-background-10: #312e8c;
+  --color-text-destaque: #7d8afc;
   --color-text: #f2f1df;
 }
